@@ -1,0 +1,22 @@
+img{
+	width:auto;
+}
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+/* .navbar-brand{
+	margin-left: 400px;
+} */
+.navbar-brand,.nav-link{
+    font-size: 25px;
+}
+ .header-content{
+	margin-top:150px;
+	text-transform: uppercase;
+	color:#757570;
+}
+
+.card-content{
+	margin-top: 50px;
+}
